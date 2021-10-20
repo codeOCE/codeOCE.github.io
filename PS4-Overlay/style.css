@@ -2,7 +2,6 @@
     background: url(base.png);
     height: 598px;
     width: 806px;
-    position: absolute;
 }
 
 
@@ -11,7 +10,6 @@
     height: 100%;
     background: url(triggers.png);
     opacity: 0;
-    position: absolute;
 }
 
 
@@ -20,7 +18,6 @@
     height: 23px;
     background: url(bumper.png) no-repeat;
     opacity: 0;
-    position: absolute;
 }
 
 
@@ -29,7 +26,6 @@
     width: 55px;
     height: 55px;
     background: url(face.png);
-    position: absolute;
 }
 
 
